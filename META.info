@@ -1,4 +1,5 @@
 {
+     "perl" : "6.*",
      "name" : "Modular",
      "version" : "0.1.2",
      "description" : "Modular arithmetics in Perl6",

@@ -1,4 +1,4 @@
-BEGIN { push @*INC, <lib> }
+use lib 'lib';
 use Modular;
 use Test;
 
